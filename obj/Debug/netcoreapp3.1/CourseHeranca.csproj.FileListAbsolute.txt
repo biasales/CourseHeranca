@@ -1,0 +1,12 @@
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.exe
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.deps.json
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.runtimeconfig.json
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.runtimeconfig.dev.json
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.dll
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\bin\Debug\netcoreapp3.1\CourseHeranca.pdb
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.AssemblyInfoInputs.cache
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.AssemblyInfo.cs
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.dll
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.pdb
+C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.genruntimeconfig.cache

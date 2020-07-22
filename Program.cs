@@ -1,4 +1,5 @@
 ﻿using System;
+using CourseHeranca.Entites;
 
 namespace CourseHeranca
 {
@@ -6,7 +7,8 @@ namespace CourseHeranca
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessAcount account = new BusinessAcount(8010, "Bianca Sales", 200.54, 500);
+            Console.WriteLine(account.Balance);
         }
     }
 }
