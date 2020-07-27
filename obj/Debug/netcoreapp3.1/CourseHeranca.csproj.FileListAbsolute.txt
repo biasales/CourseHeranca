@@ -10,3 +10,4 @@ C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\Course
 C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.dll
 C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.pdb
 C:\Users\Bianca Sales\Source\Repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.genruntimeconfig.cache
+C:\Users\Bianca Sales\source\repos\CourseHeranca2\obj\Debug\netcoreapp3.1\CourseHeranca.csprojAssemblyReference.cache

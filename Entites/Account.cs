@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CourseHeranca.Entites
 {
-    class Account
+    abstract class Account
     {
         public int Number { get; protected set; }
         public string Holder { get; protected set; }
